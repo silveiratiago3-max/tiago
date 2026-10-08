@@ -1,0 +1,21 @@
+# Materiais da instrutora — NÃO publicar no template dos alunos
+# (deck de apresentação, fotos pessoais e QR do LinkedIn ficam só no PC)
+apresentacao.pptx
+apresentacao.html
+apresentacao.pdf
+build_slides.py
+assets/mariana.jpg
+assets/qr-linkedin.png
+
+# Arquivos de origem das imagens pessoais
+WhatsApp Image*.jpeg
+WhatsApp Image*.jpg
+QRCode_*.png
+
+# Saída temporária de ferramentas
+.playwright-mcp/
+
+# Materiais de instrutora / planejamento — fora do template do aluno
+slides.md
+docs/roteiro-instrutora.md
+docs/superpowers/
